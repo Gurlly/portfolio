@@ -11,9 +11,10 @@ import {Accordion} from 'react-bootstrap';
 import { IoAddOutline } from "react-icons/io5";
 import { HiOutlineDotsHorizontal } from "react-icons/hi";
 import { IoClose } from "react-icons/io5";
+import { FaGithub } from "react-icons/fa";
 
-import Skills from './data/skills.json'
-
+import Skills from './data/skills.json';
+import Projects from './data/projects.json';
 
 const sectionsData = [
   {
@@ -244,7 +245,6 @@ function App() {
         className="container-fluid px-0 tw-py-28 md:tw-py-36 lg:tw-py-44 tw-bg-gradient-to-r tw-from-zinc-900 tw-via-zinc-950 tw-to-zinc-900"
         >
           <div className="container-lg">
-
             <div className='row tw-mb-20'>
               <div className="col-12">
                 <div className="tw-flex tw-justify-center">
@@ -255,6 +255,34 @@ function App() {
               </div>
             </div>
 
+            <div className="row px-3 gy-4 gx-5 justify-content-center justify-content-xl-evenly">
+              {
+                Projects.map((project) => (
+                  <div className="col-11 col-sm-7 col-md-6 col-lg-5">
+                    <div className="tw-border-4 tw-border-zinc-100 tw-rounded-lg">
+                      <div className='tw-w-full tw-h-52 tw-overflow-hidden tw-border-b-2 tw-border-neutral-800'>
+                        <img src={project.src} alt={project.alt} className='tw-w-full tw-object-cover tw-object-center' />
+                      </div>
+                      <div className='tw-h-52 p-2 d-flex flex-column justify-content-between tw-bg-zinc-50'>
+                        <div>
+                          <h4 className="tw-font-serif"><a href={project['deploy-link']} target='_blank' rel="noreferrer" className="tw-text-neutral-800 tw-no-underline hover:tw-underline">{project.name}</a></h4>
+                          <p className="tw-text-justify tw-font-mono">{project.description}</p>
+                        </div>
+                        <div className='d-flex align-items-center'>
+                          <a
+                          href={project.repository}
+                          target="_blank"
+                          rel="noreferrer"
+                          className='tw-border tw-w-4/12 py-2 me-3 tw-rounded-lg tw-text-zinc-100 tw-border-neutral-800 tw-bg-gray-700 hover:tw-bg-gray-600 tw-transition-colors tw-ease-linear'>
+                            <FaGithub className="mx-auto fs-5"/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))
+              }
+            </div>
           </div>
           
         </Element>            

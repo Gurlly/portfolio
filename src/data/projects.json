@@ -1,0 +1,39 @@
+[
+    {
+        "name": "UST Portal",
+        "id": "ust-portal",
+        "description":"Recreating an improve version of my school student portal using React.",
+        "deploy-link": "https://ust-portal.vercel.app/",
+        "repository": "https://github.com/Gurlly/ust-portal",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZiu9plGoXYepZmEutVGapiMlb6BFnkXGFwBTAQB29TdYb8cI9BEbCT-lrKSMcZCPveSu3os8IUWc5VeeIOJP7HEyNryp3bBg=s1600-rw-v1",
+        "alt": "Improved UST Portal"
+    },
+    {
+        "name": "ZapWeb",
+        "id": "zapweb",
+        "description":"My first business website made in Bootstrap.",
+        "deploy-link": "https://bussiness-website-two.vercel.app/",
+        "repository": "https://github.com/Gurlly/bussiness-website",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihb5ce8SeE9lIB9fJb1SJs-XNAE31VoPKOgJzsV5dhx7XN2iq0jI1KxFXjgt1oFH1CpuDkti-6Zj64AIZ6itqFXqUzThT44KeWY=s1600-rw-v1",
+        "alt": "Zapweb Website"
+    },
+    {
+        "name": "Weather Application",
+        "id": "weather-app",
+        "description":"My first major project using HTML, CSS, JavaScript, and API integration.",
+        "deploy-link": "https://weather-application-inky-eight.vercel.app/",
+        "repository": "https://github.com/Gurlly/weather-application",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZBlI0kToAzK7RUIEIoCWYavrTAUJXXdU0tdZjQ2XcRj9ZICpVjntV5YRYNc4m9EFtIxJCXscLR8FI-vwNVzfmcKo6sDvunVgE=s1600-rw-v1",
+        "alt": "Weather Application in HTML, CSS, and JavaScript"
+    },
+    {
+        "name": "Movie Appication",
+        "id": "movie-app",
+        "description":"The first React project I created that is fully functional.",
+        "deploy-link": "https://movie-app-bice-eight.vercel.app/",
+        "repository": "https://github.com/Gurlly/movie-app",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihY9iXOA2fkNm12BtN-wWdYkX2JO4bj4nVAZdv5uDq4Gq0aASZ5YtizDKvruQr_KaL9PpCCstUdrxfd-0PLr85zvXQtsh4wYNyg=s1600-rw-v1",
+        "alt": "Simple Movie Application"
+    }
+
+]
