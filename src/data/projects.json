@@ -34,6 +34,15 @@
         "repository": "https://github.com/Gurlly/movie-app",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihY9iXOA2fkNm12BtN-wWdYkX2JO4bj4nVAZdv5uDq4Gq0aASZ5YtizDKvruQr_KaL9PpCCstUdrxfd-0PLr85zvXQtsh4wYNyg=s1600-rw-v1",
         "alt": "Simple Movie Application"
+    },
+    {
+        "name": "TicTacToe",
+        "id": "tictactoe",
+        "description":"My first game application made in React, Tailwind CSS, and RippleUI.",
+        "deploy-link": "https://tictactoe-chi-three.vercel.app/",
+        "repository": "https://github.com/Gurlly/tictactoe",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ0p2x1p_IvPXXLFIbCo0Zh1TqJoYkiz6NwR0Pv1qPNpFgCtPWEDacvN3qko_wFoAWQWHp3iIO2ZGh6vE9R1qMZB9CY1ffKzOg=s1600-rw-v1",
+        "alt": "TicTacToe Application"
     }
 
 ]
