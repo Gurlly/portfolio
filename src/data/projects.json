@@ -43,6 +43,14 @@
         "repository": "https://github.com/Gurlly/tictactoe",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ0p2x1p_IvPXXLFIbCo0Zh1TqJoYkiz6NwR0Pv1qPNpFgCtPWEDacvN3qko_wFoAWQWHp3iIO2ZGh6vE9R1qMZB9CY1ffKzOg=s1600-rw-v1",
         "alt": "TicTacToe Application"
+    },
+    {
+        "name": "Freedom Christian",
+        "id": "freedom",
+        "description":"My First advance project with Fade animations and Multiple Tailwdind libraries.",
+        "deploy-link": "https://freedom-bice.vercel.app/",
+        "repository": "https://github.com/Gurlly/freedom",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZLB78yZnQxL7vLAT-uOPYYIBN_tWfTw7b7k_lh0B5UO6DmzX-PfjmrLDwh0NQQsPYX9LVlz-KRd311PaC43W5DzVMP-VUGs7w=s1600-rw-v1",
+        "alt": "Freedom Website"
     }
-
 ]
