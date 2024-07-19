@@ -47,10 +47,10 @@
     {
         "name": "Freedom Christian",
         "id": "freedom",
-        "description":"My First advance project with Fade animations and Multiple Tailwdind libraries.",
+        "description":"I created our Church a website using React and TailwindCSS(Ripple and Flowbite).",
         "deploy-link": "https://freedom-bice.vercel.app/",
         "repository": "https://github.com/Gurlly/freedom",
-        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZLB78yZnQxL7vLAT-uOPYYIBN_tWfTw7b7k_lh0B5UO6DmzX-PfjmrLDwh0NQQsPYX9LVlz-KRd311PaC43W5DzVMP-VUGs7w=s1600-rw-v1",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaP4FUsYDXvtYpoBEGvpIAG3nXkx4fz7PymwilSxd_g5lEI_3GpxLXIaDzl-94zpm3Lna_iE1yeXkln_b6fM0BoEc-g5CeH1Q=s1600-rw-v1",
         "alt": "Freedom Website"
     }
 ]
