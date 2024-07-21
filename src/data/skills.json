@@ -13,27 +13,27 @@
     },
     {
         "id": 3,
-        "name": "JavaScript",
+        "name": "JavaScript ES6",
         "type": "front-end",
         "progress": 70
     },
     {
         "id": 4,
-        "name": "Bootstrap",
+        "name": "Bootstrap 5",
         "type": "front-end",
         "progress": 90
     },
     {
         "id": 5,
-        "name": "Tailwind",
+        "name": "TailwindCSS",
         "type": "front-end",
-        "progress": 80
+        "progress": 70
     },
     {
         "id": 6,
-        "name": "React JS",
+        "name": "ReactJS",
         "type": "front-end",
-        "progress": 75
+        "progress": 80
     },
 
 
@@ -41,36 +41,36 @@
         "id": 7,
         "name": "Java",
         "type": "back-end",
-        "progress": 95
+        "progress": 90
     },
     {
         "id": 8,
         "name": "Java EE",
         "type": "back-end",
-        "progress": 75
+        "progress": 80
     },
     {
         "id": 9,
         "name": "Git & GitHub",
         "type": "back-end",
-        "progress": 65
+        "progress": 70
     },
     {
         "id": 10,
         "name": "ExpressJS",
         "type": "back-end",
-        "progress": 65
+        "progress": 30
     },
     {
         "id": 11,
         "name": "Angular",
         "type": "front-end",
-        "progress": 40
+        "progress": 20
     },
     {
         "id": 12,
         "name": "NextJS",
         "type": "front-end",
-        "progress": 40
+        "progress": 30
     }
 ]
