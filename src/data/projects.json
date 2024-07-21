@@ -52,5 +52,14 @@
         "repository": "https://github.com/Gurlly/freedom",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaP4FUsYDXvtYpoBEGvpIAG3nXkx4fz7PymwilSxd_g5lEI_3GpxLXIaDzl-94zpm3Lna_iE1yeXkln_b6fM0BoEc-g5CeH1Q=s1600-rw-v1",
         "alt": "Freedom Website"
+    },
+    {
+        "name": "Mock Lazada",
+        "id": "laz",
+        "description":"This website showcases my skills in creating an E-commerce website and using JSON files.",
+        "deploy-link": "https://mock-lazada.vercel.app/",
+        "repository": "https://github.com/Gurlly/mock-lazada",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaCslrkEq87MK-pGOU6VUmgPsUmVj4n-J6acana25xR0NLm_3Zbbx1QiehnEIsBOk64YoKBXwBbiVJ-k03MjFqCuC9JkzLEtg=s1600-rw-v1",
+        "alt": "Lazada Website (mock)"
     }
 ]
