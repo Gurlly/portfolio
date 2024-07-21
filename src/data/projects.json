@@ -2,7 +2,7 @@
     {
         "name": "UST Portal",
         "id": "ust-portal",
-        "description":"Recreating an improve version of my school student portal using React.",
+        "description":"Recreating an improve version of my school student portal using React, Bootstrap 5, and TailwindCSS.",
         "deploy-link": "https://ust-portal.vercel.app/",
         "repository": "https://github.com/Gurlly/ust-portal",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZiu9plGoXYepZmEutVGapiMlb6BFnkXGFwBTAQB29TdYb8cI9BEbCT-lrKSMcZCPveSu3os8IUWc5VeeIOJP7HEyNryp3bBg=s1600-rw-v1",
@@ -11,7 +11,7 @@
     {
         "name": "ZapWeb",
         "id": "zapweb",
-        "description":"My first business website made in Bootstrap.",
+        "description":"The first mock business website I copied from a website using pure Boostrap 5.",
         "deploy-link": "https://bussiness-website-two.vercel.app/",
         "repository": "https://github.com/Gurlly/bussiness-website",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihb5ce8SeE9lIB9fJb1SJs-XNAE31VoPKOgJzsV5dhx7XN2iq0jI1KxFXjgt1oFH1CpuDkti-6Zj64AIZ6itqFXqUzThT44KeWY=s1600-rw-v1",
@@ -29,7 +29,7 @@
     {
         "name": "Movie Appication",
         "id": "movie-app",
-        "description":"The first React project I created that is fully functional.",
+        "description":"This simple project shows my knowledge about React and API usage.",
         "deploy-link": "https://movie-app-bice-eight.vercel.app/",
         "repository": "https://github.com/Gurlly/movie-app",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihY9iXOA2fkNm12BtN-wWdYkX2JO4bj4nVAZdv5uDq4Gq0aASZ5YtizDKvruQr_KaL9PpCCstUdrxfd-0PLr85zvXQtsh4wYNyg=s1600-rw-v1",
@@ -38,7 +38,7 @@
     {
         "name": "TicTacToe",
         "id": "tictactoe",
-        "description":"My first game application made in React, Tailwind CSS, and RippleUI.",
+        "description":"The game application I created using ReactJS.",
         "deploy-link": "https://tictactoe-chi-three.vercel.app/",
         "repository": "https://github.com/Gurlly/tictactoe",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ0p2x1p_IvPXXLFIbCo0Zh1TqJoYkiz6NwR0Pv1qPNpFgCtPWEDacvN3qko_wFoAWQWHp3iIO2ZGh6vE9R1qMZB9CY1ffKzOg=s1600-rw-v1",
@@ -47,7 +47,7 @@
     {
         "name": "Freedom Christian",
         "id": "freedom",
-        "description":"I created our Church a website using React and TailwindCSS(Ripple and Flowbite).",
+        "description":"Project I created for the local church I am attending to boost evangelism and their engagement.",
         "deploy-link": "https://freedom-bice.vercel.app/",
         "repository": "https://github.com/Gurlly/freedom",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaP4FUsYDXvtYpoBEGvpIAG3nXkx4fz7PymwilSxd_g5lEI_3GpxLXIaDzl-94zpm3Lna_iE1yeXkln_b6fM0BoEc-g5CeH1Q=s1600-rw-v1",
@@ -56,7 +56,7 @@
     {
         "name": "Mock Lazada",
         "id": "laz",
-        "description":"This website showcases my skills in creating an E-commerce website and using JSON files.",
+        "description":"This website showcases my skills in creating an E-commerce website using ReactJS and using JSON files.",
         "deploy-link": "https://mock-lazada.vercel.app/",
         "repository": "https://github.com/Gurlly/mock-lazada",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaCslrkEq87MK-pGOU6VUmgPsUmVj4n-J6acana25xR0NLm_3Zbbx1QiehnEIsBOk64YoKBXwBbiVJ-k03MjFqCuC9JkzLEtg=s1600-rw-v1",
