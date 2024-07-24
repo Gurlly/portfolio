@@ -45,12 +45,12 @@
         "alt": "TicTacToe Application"
     },
     {
-        "name": "Freedom Christian",
+        "name": "Freedom Christian Fellowship",
         "id": "freedom",
-        "description":"Project I created for the local church I am attending to boost evangelism and their engagement.",
-        "deploy-link": "https://freedom-bice.vercel.app/",
-        "repository": "https://github.com/Gurlly/freedom",
-        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaP4FUsYDXvtYpoBEGvpIAG3nXkx4fz7PymwilSxd_g5lEI_3GpxLXIaDzl-94zpm3Lna_iE1yeXkln_b6fM0BoEc-g5CeH1Q=s1600-rw-v1",
+        "description":"A website I created for our local Church (ongoing).",
+        "deploy-link": "https://new-freedom.vercel.app/",
+        "repository": "https://github.com/Gurlly/new-freedom",
+        "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpiha0Llz10EGWIqh53O4JBYfvjlb9CalbhwEJy3fg-udQif4mJ58zgmRpqScj38721PiVm3nJKEMwJR1x8iyoSGvXI-Q5Bswmkw=s1600-rw-v1",
         "alt": "Freedom Website"
     },
     {
