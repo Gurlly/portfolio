@@ -171,6 +171,7 @@ function App() {
                                   <li>Git & GitHub (<a href="https://drive.google.com/file/d/1DPlIM9PbxvhRhEfMakgnjsr5xIDlWIU9/view?usp=sharing" target='_blank' rel="noreferrer">Link</a>)</li>
                                   <li>Complete Front-End Web Development (<a href="https://drive.google.com/file/d/16ro6XD0eKxH32NllbsBGqQUl-42EVCLK/view?usp=sharing" target='_blank' rel="noreferrer">Link</a>)</li>
                                   <li>JavaScript for Beginners (<a href="https://drive.google.com/file/d/1B_enqFia1Dj6KTvirn1cOnqEBGX8FGkk/view?usp=sharing" target='_blank' rel="noreferrer">Link</a>)</li>
+                                  <li>NextJS Course Certificate (<a href="https://drive.google.com/file/d/1-rAkd0P3IyrsGcyv-6kmKs7-aUBkQmlA/view?usp=sharing" target='_blank' rel="noreferrer">Link</a>)</li>
                                 </ul>
                               </Accordion.Body>
                             </Accordion.Item>
