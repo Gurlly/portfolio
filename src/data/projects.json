@@ -61,5 +61,14 @@
         "repository": "https://github.com/Gurlly/mock-lazada",
         "src": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaCslrkEq87MK-pGOU6VUmgPsUmVj4n-J6acana25xR0NLm_3Zbbx1QiehnEIsBOk64YoKBXwBbiVJ-k03MjFqCuC9JkzLEtg=s1600-rw-v1",
         "alt": "Lazada Website (mock)"
+    },
+    {
+        "name": "Aranas Dental",
+        "id": "arn-dnt",
+        "description":"This website showcase my knowledge with NextJS (full stack). Moreover, this project aims to display my SEO skills using NextJS.",
+        "deploy-link": "https://aranas-dental.vercel.app/",
+        "repository": "https://github.com/Gurlly/aranas-dental",
+        "src": "https://drive.google.com/drive-viewer/AKGpihaEV4wCoa_Xw3bhhyNLd5YZD8y2q8nLuBEoV0auk640OPYF0Dv13zXoPUTBi9PbPYfM6bMrV2a21ubmpagn_wenApUoF9XuBeg=s1600-rw-v1",
+        "alt": "Aranas Dental (Ongoing)"
     }
 ]
