@@ -31,7 +31,7 @@
     },
     {
         "id": 6,
-        "name": "ReactJS / NextJS",
+        "name": "ReactJS",
         "type": "front-end",
         "progress": 80
     },
@@ -71,6 +71,6 @@
         "id": 12,
         "name": "NextJS",
         "type": "front-end",
-        "progress": 30
+        "progress": 70
     }
 ]
