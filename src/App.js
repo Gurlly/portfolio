@@ -271,9 +271,9 @@ function App() {
                   <div key={project.id} className="col-11 col-sm-7 col-md-6 col-lg-5">
                     <div className="tw-border-4 tw-border-zinc-100 tw-rounded-lg">
                       <div className='tw-w-full tw-h-52 tw-overflow-hidden tw-border-b-2 tw-border-neutral-800'>
-                        <img src={project.src} alt={project.alt} className='tw-w-full tw-object-cover tw-object-center' />
+                        <img src={project.src} alt={project.alt} className='tw-w-full tw-h-full tw-object-cover tw-object-center' />
                       </div>
-                      <div className='tw-h-52 p-2 d-flex flex-column justify-content-between tw-bg-zinc-50'>
+                      <div className='tw-h-72 p-2 d-flex flex-column justify-content-between tw-bg-zinc-50'>
                         <div>
                           <h4 className="tw-font-serif"><a href={project['deploy-link']} target='_blank' rel="noreferrer" className="tw-text-neutral-800 tw-no-underline hover:tw-underline">{project.name}</a></h4>
                           <p className="tw-text-justify tw-font-mono">{project.description}</p>
