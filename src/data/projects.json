@@ -65,7 +65,7 @@
     {
         "name": "Aranas Dental",
         "id": "arn-dnt",
-        "description":"This website showcase my knowledge with NextJS (full stack). Moreover, this project aims to display my SEO skills using NextJS.",
+        "description":"This website showcase my knowledge with NextJS (Full Stack).",
         "deploy-link": "https://aranas-dental.vercel.app/",
         "repository": "https://github.com/Gurlly/aranas-dental",
         "src": "https://drive.google.com/thumbnail?id=1kZjDJMHvhcO05wc6CPsP8E8H4W8N1mKz&sz=w800",
