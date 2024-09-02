@@ -39,15 +39,15 @@
 
     {
         "id": 7,
-        "name": "Java",
+        "name": "NextJS (Full Stack)",
         "type": "back-end",
-        "progress": 90
+        "progress": 70
     },
     {
         "id": 8,
-        "name": "Java EE",
+        "name": "Java",
         "type": "back-end",
-        "progress": 80
+        "progress": 90
     },
     {
         "id": 9,
@@ -57,20 +57,20 @@
     },
     {
         "id": 10,
-        "name": "ExpressJS",
+        "name": "NodeJS",
         "type": "back-end",
-        "progress": 30
+        "progress": 80
     },
     {
         "id": 11,
-        "name": "Angular",
-        "type": "front-end",
-        "progress": 20
+        "name": "Java (Backend)",
+        "type": "back-end",
+        "progress": 50
     },
     {
         "id": 12,
-        "name": "NextJS",
-        "type": "front-end",
-        "progress": 70
+        "name": "REST API",
+        "type": "back-end",
+        "progress": 60
     }
 ]
