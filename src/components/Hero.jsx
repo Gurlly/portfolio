@@ -16,7 +16,7 @@ const Hero = ({ changeSectionStatus }) => {
             <h1 className="tw-font-serif tw-text-7xl tw-drop-shadow-lg xl:tw-text-7xl fw-bold mb-3">
               <span className="tw-hidden xl:tw-inline">Nathanael</span> Martinez<span className="tw-hidden lg:tw-inline xl:tw-hidden">, N.</span>
             </h1>
-            <h4 className="tw-font-serif fs-3 tw-text-stone-700">Front-End Developer</h4>
+            <h4 className="tw-font-serif fs-3 tw-text-stone-700">Full-Stack Developer | MERN</h4>
           </FadeIn>
         </div>
         <div className="tw-w-full tw-text-center lg:tw-text-left">

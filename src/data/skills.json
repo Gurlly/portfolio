@@ -1,33 +1,33 @@
 [
     {
         "id": 1,
-        "name": "HTML",
+        "name": "HTML & CSS",
         "type": "front-end",
         "progress": 90
     },
     {
         "id": 2,
-        "name": "CSS",
+        "name": "JavaScript",
         "type": "front-end",
-        "progress": 75
+        "progress": 90
     },
     {
         "id": 3,
-        "name": "JavaScript ES6",
+        "name": "ReactJS (NextJS)",
         "type": "front-end",
-        "progress": 70
+        "progress": 90
     },
     {
         "id": 4,
-        "name": "Bootstrap 5",
+        "name": "TailwindCSS & Boostrap",
         "type": "front-end",
         "progress": 90
     },
     {
         "id": 5,
-        "name": "TailwindCSS",
+        "name": "Figma",
         "type": "front-end",
-        "progress": 70
+        "progress": 65
     },
     {
         "id": 6,
@@ -39,38 +39,38 @@
 
     {
         "id": 7,
-        "name": "NextJS (Full Stack)",
+        "name": "NodeJS",
         "type": "back-end",
-        "progress": 70
+        "progress": 85
     },
     {
         "id": 8,
-        "name": "Java",
+        "name": "REST API",
         "type": "back-end",
-        "progress": 90
+        "progress": 85
     },
     {
         "id": 9,
         "name": "Git & GitHub",
         "type": "back-end",
-        "progress": 70
+        "progress": 95
     },
     {
         "id": 10,
-        "name": "NodeJS",
+        "name": "Java",
         "type": "back-end",
         "progress": 80
     },
     {
         "id": 11,
-        "name": "Java (Backend)",
+        "name": "MongoDB",
         "type": "back-end",
-        "progress": 50
+        "progress": 80
     },
     {
         "id": 12,
-        "name": "REST API",
+        "name": "SQL",
         "type": "back-end",
-        "progress": 60
+        "progress": 80
     }
 ]

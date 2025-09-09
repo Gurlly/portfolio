@@ -1,12 +1,21 @@
 [
     {
-        "name": "UST Portal",
-        "id": "ust-portal",
-        "description":"Recreating an improve version of my school student portal using React, Bootstrap 5, and TailwindCSS.",
-        "deploy-link": "https://ust-portal.vercel.app/",
-        "repository": "https://github.com/Gurlly/ust-portal",
-        "src": "https://drive.google.com/thumbnail?id=1qjqZbIGyWCYjlsZRnNNPD4ZD3HMJOKOe&sz=w800",
-        "alt": "Improved UST Portal"
+        "name": "Smile Solutions (System)",
+        "id": "smile",
+        "description":"A Software Engineering project that aims to create a record management and appointment system for Smile Solutions Dental Clinic.",
+        "deploy-link": "https://smile-two.vercel.app/",
+        "repository": "",
+        "src": "https://drive.google.com/thumbnail?id=16sx2nvj-OSCrNiW4Xt4JB9BN1OhgOjaW&sz=w800",
+        "alt": "Smile Solutions Clinic"
+    },
+    {
+        "name": "MCY Dental Clinic (Ongoing)",
+        "id": "mcy-dent",
+        "description":"My first paid project for MCY Dental Clinic. It is where I used all of my learnings to create a system by myself. Not yet deployed.",
+        "deploy-link": "",
+        "repository": "",
+        "src": "https://drive.google.com/thumbnail?id=1jZhh2LTIy9yiffUV0My6qlogybMBCB0g&sz=w800",
+        "alt": "MCY Dental Clinic"
     },
     {
         "name": "ZapWeb",
@@ -61,14 +70,5 @@
         "repository": "https://github.com/Gurlly/mock-lazada",
         "src": "https://drive.google.com/thumbnail?id=10_WigDlVy-tFZ10G9o7W_gFEV5bWAoBB&sz=w800",
         "alt": "Lazada Website (mock)"
-    },
-    {
-        "name": "Aranas Dental",
-        "id": "arn-dnt",
-        "description":"This website showcase my knowledge with NextJS (Full Stack).",
-        "deploy-link": "https://aranas-dental.vercel.app/",
-        "repository": "https://github.com/Gurlly/aranas-dental",
-        "src": "https://drive.google.com/thumbnail?id=1kZjDJMHvhcO05wc6CPsP8E8H4W8N1mKz&sz=w800",
-        "alt": "Aranas Dental (Ongoing)"
     }
 ]
